@@ -1,0 +1,21 @@
+{
+  "bans": [],
+  "warns": [
+    {
+      "userId": "1152064404796493834",
+      "guildId": "1367705967990407269",
+      "warnedAt": 1747419624703,
+      "reason": "1m",
+      "expireAt": null
+    },
+    {
+      "userId": "1152064404796493834",
+      "guildId": "1367705967990407269",
+      "warnedAt": 1747419641102,
+      "reason": "none provided",
+      "expireAt": null
+    }
+  ],
+  "blacklisted": [],
+  "tickets": []
+}
